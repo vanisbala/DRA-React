@@ -1,0 +1,34 @@
+.sidebarcomp{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.menu{
+    list-style: none;
+
+}
+
+.menu li{
+    padding: 10px 7px;
+    background-color: rgb(200, 198, 198);
+    border-bottom: 1px solid #eee;
+}
+
+.fa{
+    margin-right: 5px;
+}
+
+.navlink{
+    color:black !important;
+    text-decoration: none; 
+    font-family: Verdana, sans-serif;
+}
+
+.headitem{
+    background-color: maroon !important;
+    padding: 12px 8px;
+}
+
+.headitem .navlink{
+    color: white !important;
+}
